@@ -5,7 +5,7 @@ RUC course project: Advanced Statistical Analysis in Spring 2023.
 
 Folder **Code** contains the main code for this project, where **Select_Stock.R** helps us to select stocks by clustering covariance. **Bayes_in_sample.R**, **Bayes_out_of_sample.R**, **Non-Bayes_in_sample.R** and **Non-Bayes_out_of_sample.R** denote the in-sample using Bayesian method, out-of-sample using Bayesian method, in-sample using conventional method and out-of-sample using conventional method for R programs. **Alpha.R** uses the S&P 500 index as the underlying to observe the excess returns of our method.
 
-**bbk.us.txt**, **bfy.us.txt**, **ko.us.txt** and **pep.us.txt** are the main data I use in my project. More data can be found at https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-.
+**bbk.us.txt**, **bfy.us.txt**, **ko.us.txt** and **pep.us.txt** are the main data I use in my project. More data can be found at https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs.
 
 Folder **Images** provide the main results of my report.
 
