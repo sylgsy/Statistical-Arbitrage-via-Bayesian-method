@@ -15,7 +15,7 @@ File **Final project.pdf** is the final report.
 
 # Conclusions
 
-If stock pairs with co-integration relationships are selected, the use of Bayesian methods can improve on conventional statistical arbitrage in terms of return will maximum drawdown.
+If stock pairs with co-integration relationships are selected, the use of Bayesian methods can improve on conventional statistical arbitrage in terms of annualized return and maximum drawdown.
 
 # Acknowledgement
 
